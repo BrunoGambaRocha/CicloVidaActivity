@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CicloDeVidaActivity</string>
+    <string name="title">Ciclo de Vida de uma Activity</string>
+</resources>
